@@ -20,7 +20,12 @@ DATABASE:
 MYSQL
 SOFTWARE:
 XAMPP
-    
+
+Module SplitUp:
+Vignesh.k - UserInterface Design
+Monika.D - Report Generation,DashBoard Design
+Vigneshwari.R - Graphical Representation,Database Connection
+
  BATCH NUMBER: 19
  D.MONIKA 15CSA41
  K.VIGNESH 15CSA68
