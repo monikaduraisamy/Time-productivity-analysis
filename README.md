@@ -3,7 +3,7 @@ PROBLEM DESCRIPTION:
 Productivity Analysis is conducted to identify areas for potential productivity improvement projects based on statistical data collected during the analysis. The analysis also pinpoints areas of delays and interruptions that cause loss of productivity.
 	In any productivity improvement initiative is to understand the current state of the operation. Productivity analysis provides baseline indicators that will also yield data which will be used to determine possible productivity improvement objectives and potential cost savings.
 	
- Advantages over existing methods:
+ Advantages:
     Monitor performance and provide feedback
     Diagnose problems
     Facilitate planning and control
