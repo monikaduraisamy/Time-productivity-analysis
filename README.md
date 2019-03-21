@@ -7,10 +7,19 @@ Productivity Analysis is conducted to identify areas for potential productivity 
     Monitor performance and provide feedback
     Diagnose problems
     Facilitate planning and control
+    
 Drawbacks of existing methods
     Strong self-discipline
     Distractions
     Resisting the fear of missing out(FOMO)
+    
+REQUIREMENTS:
+LANGUAGES:
+HTML,CSS,PHP
+DATABASE:
+MYSQL
+SOFTWARE:
+XAMPP
     
  BATCH NUMBER: 19
  D.MONIKA 15CSA41
