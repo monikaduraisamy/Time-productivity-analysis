@@ -22,7 +22,7 @@ SOFTWARE:
 XAMPP
 
 Module SplitUp:
-Vignesh.k - UserInterface Design,Notification
+Vignesh.k - UserInterface Design
 Monika.D - Report Generation,DashBoard Design
 Vigneshwari.R - Graphical Representation,Database Connection
 
