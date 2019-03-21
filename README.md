@@ -8,7 +8,7 @@ Productivity Analysis is conducted to identify areas for potential productivity 
     Diagnose problems
     Facilitate planning and control
     
-Drawbacks of existing methods
+Drawbacks of existing methods:
     Strong self-discipline
     Distractions
     Resisting the fear of missing out(FOMO)
