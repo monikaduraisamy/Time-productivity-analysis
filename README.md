@@ -27,6 +27,6 @@ Vigneshwari.R - Graphical Representation,Database Connection
 # Future Enchancement:
 	The future enhancements can be done by sending notifications to the employee, and blocking the websites in which the time is spent unneccesarily.The comparision chart can be displayed based on the particular employee’s task.
 
-# Project Completion: 45%
+# Project Completion: 40%
 
 
